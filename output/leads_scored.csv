@@ -1,0 +1,6 @@
+ID,Name,Niche,Contact,Platform,Score,Notes
+a0c5de13-08a8-4e9b-81e0-5bf7268f5954,Al Noor Realty,real estate,info@alnoorrealty.ae,email,9,"valid_email,visual_niche"
+97020acb-bc4c-49f8-b0a4-3b76bf34f5ec,Glow Aesthetics Clinic,clinic,hello@glowaesthetics.ae,email,9,"valid_email,visual_niche"
+e120ddd9-0609-42ce-a844-659f0ea4d676,Marina Fitness JLT,gym,+971501234567,whatsapp,8,"valid_phone,visual_niche"
+00913f6b-379c-49a3-975a-93d035e2aa6f,Emaar Agent Team,real estate,https://linkedin.com/in/agentxyz,linkedin,7,"linkedin_url,visual_niche"
+c803cc75-be20-43f0-8bfd-0258071a1e24,Taste of Dubai,restaurant,@tasteofdubai,instagram,6,"handle_ok,visual_niche"
